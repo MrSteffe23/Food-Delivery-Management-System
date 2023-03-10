@@ -19,6 +19,6 @@ system have three types of users that log in using a username and a password: ad
 1. Is notified each time a new order is performed by a client so that it can prepare the  delivery of the ordered dishes.    
 
 I used ***Composite Design Pattern*** for defining the classes MenuItem, BaseProduct and CompositeProduct.     
-The ***Composite Design Pattern*** is for defining the classes MenuItem, BaseProduct and CompositeProduct.   
+The ***Observer Design Pattern*** is used to notify the employee each time a new order is created.    
 I used ***lambda expressions***, ***stream processing*** and ***serialization*** in this project.
 
