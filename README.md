@@ -2,6 +2,8 @@
 I implemented a food delivery management system for a catering company. The client can order products from the company's menu. The
 system have three types of users that log in using a username and a password: administrator, regular employee and client.
 
+![ss](https://user-images.githubusercontent.com/101935675/224327360-fdcd9bed-d565-4074-a6e9-87d3ec45e22e.png)
+
 ### The administrator can:
 1. **Import** the initial set of products which will populate the menu from a .csv file.     
 2. Manage the products from the menu: **add/delete/modify products** and **create new products** composed of several products from the menu (an example of composed product could be named “daily menu 1” composed of a soup, a steak, a garnish, and a dessert).    
